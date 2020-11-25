@@ -1,5 +1,6 @@
 # VERSIONS  
 
+v1.0.3 input fields now accept a maximum of 4 characters;  
 v1.0.2 roots can now only have two decimal places, fixed bug informing that the application is a virus;  
 v1.0.1 calculation button is inactive if no numbers entered;  
 v1.0.0 added details to calculation process;  
