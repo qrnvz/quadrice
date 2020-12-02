@@ -1,4 +1,5 @@
-# VERSIONS 
+# VERSIONS
+v1.0.7 fixed some of the display bugs;   
 v1.0.6 reworked calcularions display, fixed major bug where all roots were root1;   
 v1.0.5 fixed major bug with calculations if D = 0, added flexibility to calculation details;  
 v1.0.4 fixed some of the display bugs;  
